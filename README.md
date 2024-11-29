@@ -1,0 +1,1 @@
+Updated react-export-excel/xslx to work with vite.
