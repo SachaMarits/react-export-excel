@@ -1,1 +1,1 @@
-Updated react-export-excel/xslx to work with vite.
+Updated react-export-excel/xslx to work with cra.
